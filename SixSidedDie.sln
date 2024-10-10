@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixSidedDie", "SixSidedDie\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel_Exercise", "Vowel_Exercise\Vowel_Exercise.csproj", "{56DA554D-3DD0-40DD-B435-22D547D0910B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorCode", "ErrorCode\ErrorCode.csproj", "{F80B7A0F-3D47-4894-8306-09854D24EFC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{56DA554D-3DD0-40DD-B435-22D547D0910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56DA554D-3DD0-40DD-B435-22D547D0910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56DA554D-3DD0-40DD-B435-22D547D0910B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80B7A0F-3D47-4894-8306-09854D24EFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80B7A0F-3D47-4894-8306-09854D24EFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80B7A0F-3D47-4894-8306-09854D24EFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80B7A0F-3D47-4894-8306-09854D24EFC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

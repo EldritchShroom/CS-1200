@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vowel_Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6191fb825b6807278128dd82536ef51ea4ad7ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+138a83d9614818ddc1286c9b6e4ceee0426605c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vowel_Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vowel_Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
