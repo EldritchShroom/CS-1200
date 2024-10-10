@@ -1,0 +1,14 @@
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\bin\Debug\net8.0\ErrorCode.exe
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\bin\Debug\net8.0\ErrorCode.deps.json
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\bin\Debug\net8.0\ErrorCode.runtimeconfig.json
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\bin\Debug\net8.0\ErrorCode.dll
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\bin\Debug\net8.0\ErrorCode.pdb
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.dll
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\refint\ErrorCode.dll
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.pdb
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.genruntimeconfig.cache
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ref\ErrorCode.dll
