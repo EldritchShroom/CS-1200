@@ -6,11 +6,6 @@ int code = int.Parse(Console.ReadLine());
 
 // Console.Write("Code = {0}", code); // Small test to make sure the input is what I need it to be.
 
-if (code < 100 || code >= 600) // Handle an invalid number input
-{
-    Console.WriteLine($"{code} is not a valid Response.");
-}
-
 if (code >= 100 && code < 200) // Wanted to use switch but multiple if else statements will have to do.
 {
     switch(code)

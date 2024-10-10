@@ -12,3 +12,4 @@ C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\refint\ErrorCode.dll
 C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.pdb
 C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.genruntimeconfig.cache
 C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ref\ErrorCode.dll
+C:\Users\patri\OneDrive\CS-1200\ErrorCode\obj\Debug\net8.0\ErrorCode.sourcelink.json
