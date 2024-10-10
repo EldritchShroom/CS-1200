@@ -1,0 +1,4 @@
+C:\Users\patri\OneDrive\CS-1200\Vowel_Exercise\obj\Debug\net8.0\Vowel_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\Vowel_Exercise\obj\Debug\net8.0\Vowel_Exercise.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\Vowel_Exercise\obj\Debug\net8.0\Vowel_Exercise.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\Vowel_Exercise\obj\Debug\net8.0\Vowel_Exercise.csproj.CoreCompileInputs.cache
