@@ -1,5 +1,5 @@
 ﻿// Ask for input from user
-Console.Write("Enter a Response code: ");
+Console.Write("Enter a Response Code: ");
 int code = int.Parse(Console.ReadLine()); 
 
 // We can not forget that the ReadLine method only returns string, use parse to change to integer.
@@ -8,7 +8,7 @@ int code = int.Parse(Console.ReadLine());
 
 if (code < 100 || code >= 600) // Handle an invalid number input
 {
-    Console.WriteLine($"{code} is not a valid response.");
+    Console.WriteLine($"{code} is not a valid Response.");
 }
 
 if (code >= 100 && code < 200) // Wanted to use switch but multiple if else statements will have to do.
@@ -22,7 +22,7 @@ if (code >= 100 && code < 200) // Wanted to use switch but multiple if else stat
             Console.WriteLine($"{code} is an Informational Response.");
             break;
         default:
-            Console.WriteLine($"{code} is not a valid response.");
+            Console.WriteLine($"{code} is not a valid Response.");
             break;
     }
     
@@ -44,7 +44,7 @@ else if (code >= 200 && code < 300)
             Console.WriteLine($"{code} is a Successful Response.");
             break;
         default:
-            Console.WriteLine($"{code} is not a valid response.");
+            Console.WriteLine($"{code} is not a valid Response.");
             break;
     }
     
@@ -64,7 +64,7 @@ else if (code >= 300 && code < 400)
             Console.WriteLine($"{code} is a Redirection Message.");
             break;
         default:
-            Console.WriteLine($"{code} is not a valid response.");
+            Console.WriteLine($"{code} is not a valid Response.");
             break;
     }
     
@@ -104,7 +104,7 @@ else if (code >= 400 && code < 500)
             Console.WriteLine($"{code} is a Client Error Response.");
             break;
         default:
-            Console.WriteLine($"{code} is not a valid response.");
+            Console.WriteLine($"{code} is not a valid Response.");
             break;
     }
     
@@ -113,7 +113,7 @@ else
 {
     switch(code)
     {
-        case 500;
+        case 500:
         case 501:
         case 502:
         case 503:
@@ -124,10 +124,10 @@ else
         case 508:
         case 510:
         case 511:
-            Console.WriteLine($"{code} is a Server Error Response");
+            Console.WriteLine($"{code} is a Server Error Response.");
             break;
         default:
-            Console.WriteLine($"{code} is not a valid response.");
+            Console.WriteLine($"{code} is not a valid Response.");
             break;
     }
     
