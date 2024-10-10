@@ -1,0 +1,14 @@
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\bin\Debug\net8.0\SixSidedDie.exe
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\bin\Debug\net8.0\SixSidedDie.deps.json
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\bin\Debug\net8.0\SixSidedDie.runtimeconfig.json
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\bin\Debug\net8.0\SixSidedDie.dll
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\bin\Debug\net8.0\SixSidedDie.pdb
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.dll
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\refint\SixSidedDie.dll
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.pdb
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.genruntimeconfig.cache
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\ref\SixSidedDie.dll
