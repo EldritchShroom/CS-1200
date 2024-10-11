@@ -25,8 +25,4 @@ decimal taxes = sub_total * (tax_rate / 100);
 
 decimal total = (sub_total + taxes);
 
-Console.WriteLine($"Taxes are {taxes}");
-
-Console.WriteLine($"Total is {total}");
-
-// Add the tax_amount to the sub_total amount for the final_total 
+Console.WriteLine($"For your ${sub_total} purchase, a {tax_rate}% tax is ${taxes} for a total of ${total}");
