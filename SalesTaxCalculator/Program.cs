@@ -9,7 +9,7 @@
 
 // Ask user for the sub_total amount before taxes
 Console.Write("Enter the purchase price: ");
-int sub_total = int.Parse(Console.ReadLine());
+decimal sub_total = decimal.Parse(Console.ReadLine());
 
 // Console.WriteLine($"Sub total is {sub_total}");
 
