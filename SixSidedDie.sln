@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorCode", "ErrorCode\Erro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxCalculator", "SalesTaxCalculator\SalesTaxCalculator.csproj", "{8E23F48F-FFA0-413D-A28A-50566A9185B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheArea", "FindTheArea\FindTheArea.csproj", "{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8E23F48F-FFA0-413D-A28A-50566A9185B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E23F48F-FFA0-413D-A28A-50566A9185B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E23F48F-FFA0-413D-A28A-50566A9185B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
