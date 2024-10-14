@@ -26,7 +26,7 @@ switch(shape)
         double width = double.Parse(Console.ReadLine()); 
 
         double sum = (length * width); // Multiply the length and the width to get the area of the rectangle
-        Console.WriteLine($"The area of the rectangle is {sum}.");
+        Console.WriteLine($"The area of the rectangle is {Math.Round(sum,2)}.");
         break;
 
     case "T":
@@ -39,7 +39,7 @@ switch(shape)
         double triangle_height = double.Parse(Console.ReadLine());
 
         double triangle_sum = (triangle_base * triangle_height) / 2;
-        Console.WriteLine($"The area of the triangle is {triangle_sum}.");
+        Console.WriteLine($"The area of this triangle is {Math.Round(triangle_sum,2)}.");
         break;
     
     case "C":
@@ -48,7 +48,9 @@ switch(shape)
         Console.Write("Enter the radius: ");
         double radius = double.Parse(Console.ReadLine());
 
-        Console.WriteLine("You entered {0}", radius);
+        double circle_radius = Math.PI * Math.Pow(radius,2);
+
+        Console.WriteLine($"The area of this circle is {Math.Round(circle_radius,2)}.");
         break;
     
     default:
