@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.sourcelink.json
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\bin\Debug\net8.0\FindTheArea.exe
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\bin\Debug\net8.0\FindTheArea.deps.json
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\bin\Debug\net8.0\FindTheArea.runtimeconfig.json
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\bin\Debug\net8.0\FindTheArea.dll
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\bin\Debug\net8.0\FindTheArea.pdb
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.dll
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\refint\FindTheArea.dll
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.pdb
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\FindTheArea.genruntimeconfig.cache
+C:\Users\patri\OneDrive\CS-1200\FindTheArea\obj\Debug\net8.0\ref\FindTheArea.dll

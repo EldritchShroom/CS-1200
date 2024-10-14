@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxCalculator", "Sales
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheArea", "FindTheArea\FindTheArea.csproj", "{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9FA37B1-1436-4F1B-8C87-A2C06F31F268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

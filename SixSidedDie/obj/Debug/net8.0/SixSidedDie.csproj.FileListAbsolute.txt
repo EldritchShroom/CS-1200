@@ -12,3 +12,4 @@ C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\refint\SixSidedDie.
 C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.pdb
 C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.genruntimeconfig.cache
 C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\ref\SixSidedDie.dll
+C:\Users\patri\OneDrive\CS-1200\SixSidedDie\obj\Debug\net8.0\SixSidedDie.sourcelink.json

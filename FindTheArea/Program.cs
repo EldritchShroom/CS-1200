@@ -15,18 +15,44 @@ string shape = Console.ReadLine();
 
 switch(shape)
 {
+
     case "R":
     case "r":
-        // Ask user for width and length
-    
+        // Ask user for length and width
+        Console.Write("Enter the length: ");
+        double length = double.Parse(Console.ReadLine()); // Convert from string to double
+
+        Console.Write("Enter the width: ");
+        double width = double.Parse(Console.ReadLine()); 
+
+        double sum = (length * width); // Multiply the length and the width to get the area of the rectangle
+        Console.WriteLine($"The area of the rectangle is {sum}.");
+        break;
+
     case "T":
     case "t":
         // Ask user for base and height
+        Console.Write("Enter the base: ");
+        double triangle_base = double.Parse(Console.ReadLine());
+
+        Console.Write("Enter the height: ");
+        double triangle_height = double.Parse(Console.ReadLine());
+
+        double triangle_sum = (triangle_base * triangle_height) / 2;
+        Console.WriteLine($"The area of the triangle is {triangle_sum}.");
+        break;
     
     case "C":
     case "c":
         // Ask user for radius
+        Console.Write("Enter the radius: ");
+        double radius = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("You entered {0}", radius);
+        break;
     
     default:
         // Invalid input message or something, idk i just work here
+        Console.WriteLine("Invalid input");
+        break;
 }
