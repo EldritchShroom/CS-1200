@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheArea", "FindTheArea\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultistRPG", "CultistRPG\CultistRPG.csproj", "{8006EDC4-AC2B-4A64-844A-884DA6053866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEBF7459-0583-4B8B-8723-3FFDA2BC102C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8006EDC4-AC2B-4A64-844A-884DA6053866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8006EDC4-AC2B-4A64-844A-884DA6053866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8006EDC4-AC2B-4A64-844A-884DA6053866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8006EDC4-AC2B-4A64-844A-884DA6053866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
