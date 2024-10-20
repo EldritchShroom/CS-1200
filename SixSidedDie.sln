@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultistRPG", "CultistRPG\Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{82201C38-5D1B-4BFF-A97F-3732E34DAF76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{C497D330-31F2-46CA-9D18-74FB217C0C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{82201C38-5D1B-4BFF-A97F-3732E34DAF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82201C38-5D1B-4BFF-A97F-3732E34DAF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82201C38-5D1B-4BFF-A97F-3732E34DAF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C497D330-31F2-46CA-9D18-74FB217C0C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C497D330-31F2-46CA-9D18-74FB217C0C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C497D330-31F2-46CA-9D18-74FB217C0C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C497D330-31F2-46CA-9D18-74FB217C0C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
