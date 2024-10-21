@@ -12,3 +12,17 @@
 // Initial roll, start with a do while loop
 
 // Inside the loop we will initialize our integer array, it should look something like this int dice_array[] = new int[5]; 
+int end_of_loop = 1;
+do
+{
+    int[] dice_array = new int[5]; // Declare our integer array and set it to have five "spaces"
+    int reRolls = 2;
+
+    Random rand = new Random();
+
+    for (int i = 0; i < dice_array.Length; i++)
+    {
+        dice_array[i] = rand.Next(1, 6);
+    }
+    
+} while(end_of_loop != 0);
