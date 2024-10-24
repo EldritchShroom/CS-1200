@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.sourcelink.json
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.exe
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.deps.json
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.runtimeconfig.json
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.dll
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\bin\Debug\net8.0\TemperatureConversion.pdb
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.dll
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\refint\TemperatureConversion.dll
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.pdb
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\TemperatureConversion.genruntimeconfig.cache
+C:\Users\patri\OneDrive\CS-1200\TemperatureConversion\obj\Debug\net8.0\ref\TemperatureConversion.dll
