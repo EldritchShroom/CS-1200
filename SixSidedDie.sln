@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "TemperatureConversion\TemperatureConversion.csproj", "{EEE2CF2C-C3FE-4105-A182-65C15F6E11F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerRental", "LockerRental\LockerRental.csproj", "{84734F5F-4A51-4D6E-BEB9-4785909019B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{EEE2CF2C-C3FE-4105-A182-65C15F6E11F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEE2CF2C-C3FE-4105-A182-65C15F6E11F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEE2CF2C-C3FE-4105-A182-65C15F6E11F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84734F5F-4A51-4D6E-BEB9-4785909019B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84734F5F-4A51-4D6E-BEB9-4785909019B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84734F5F-4A51-4D6E-BEB9-4785909019B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84734F5F-4A51-4D6E-BEB9-4785909019B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
