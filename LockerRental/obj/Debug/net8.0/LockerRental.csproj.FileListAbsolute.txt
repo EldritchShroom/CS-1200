@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.sourcelink.json
+C:\Users\patri\OneDrive\CS-1200\LockerRental\bin\Debug\net8.0\LockerRental.exe
+C:\Users\patri\OneDrive\CS-1200\LockerRental\bin\Debug\net8.0\LockerRental.deps.json
+C:\Users\patri\OneDrive\CS-1200\LockerRental\bin\Debug\net8.0\LockerRental.runtimeconfig.json
+C:\Users\patri\OneDrive\CS-1200\LockerRental\bin\Debug\net8.0\LockerRental.dll
+C:\Users\patri\OneDrive\CS-1200\LockerRental\bin\Debug\net8.0\LockerRental.pdb
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.dll
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\refint\LockerRental.dll
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.pdb
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\LockerRental.genruntimeconfig.cache
+C:\Users\patri\OneDrive\CS-1200\LockerRental\obj\Debug\net8.0\ref\LockerRental.dll
