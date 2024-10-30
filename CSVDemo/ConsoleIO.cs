@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+
 namespace CSVDemo;
 
 public static class ConsoleIO
@@ -84,15 +86,39 @@ public static class ConsoleIO
         while(true)
         {
             Console.Write(prompt);
-            input = Console.ReadLine();
+            string input = Console.ReadLine();
 
-            if (!string.IsNullOrWhiteSpace(input))
+            if (DateOnly.TryParse(input, out DateOnly date))
             {
-                return input;            
+                if (date >= DateOnly.FromDateTime(DateTime.Today))
+                {
+                    return date;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid date format. Please enter a valid date (YYYY-MM-DD).");
+                    Console.WriteLine();
+                }
             }
-            Console.WriteLine("Input cannot be empty. Please try again.");
-            Console.WriteLine();
-            
+        }
+    }
+
+    private static TimeOnly GetTime(string prompt)
+    {
+        while (true)
+        {
+            Console.Write(prompt);
+            string input = Console.ReadLine();
+
+            if (TimeOnly.TryParse(input, out TimeOnly time))
+            {
+                return time;
+            }
+            else
+            {
+                Console.WriteLine("Invalid time format. Please enter a valid time (HH:MM:SS)");
+                Console.WriteLine();
+            }
         }
     }
 }
