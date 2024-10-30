@@ -1,0 +1,5 @@
+C:\Users\patri\OneDrive\CS-1200\CSVDemo\obj\Debug\net8.0\CSVDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\CSVDemo\obj\Debug\net8.0\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\CSVDemo\obj\Debug\net8.0\CSVDemo.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\CSVDemo\obj\Debug\net8.0\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\CSVDemo\obj\Debug\net8.0\CSVDemo.sourcelink.json

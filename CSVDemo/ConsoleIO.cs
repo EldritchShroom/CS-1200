@@ -26,7 +26,7 @@ public static class ConsoleIO
                 }
             }
 
-            Console.WriteLine("Invalid choice. Please try again.")
+            Console.WriteLine("Invalid choice. Please try again.");
             Console.WriteLine();
         } while (true);
     }
@@ -37,7 +37,7 @@ public static class ConsoleIO
 
         Event newEvent = new Event();
 
-        newEvent.Title = GetRequireString("Enter the event title: ");
+        newEvent.Title = GetRequiredString("Enter the event title: ");
         newEvent.Description = GetRequiredString("Enter the event description: ");
         newEvent.EventDate = GetFutureDate("Enter the event date (YYYY-MM-DD): ");
         newEvent.time = GetTime("Enter the event time (HH:MM:SS): ");

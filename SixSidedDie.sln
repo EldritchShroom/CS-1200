@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerRental", "LockerRenta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDemo", "CSVDemo\CSVDemo.csproj", "{3489E809-0E9F-4E39-8277-28FD447AC444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactApplication", "ContactApplication\ContactApplication.csproj", "{0434E0DD-C6F8-4C80-8728-D70C7F084435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{3489E809-0E9F-4E39-8277-28FD447AC444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3489E809-0E9F-4E39-8277-28FD447AC444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3489E809-0E9F-4E39-8277-28FD447AC444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0434E0DD-C6F8-4C80-8728-D70C7F084435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0434E0DD-C6F8-4C80-8728-D70C7F084435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0434E0DD-C6F8-4C80-8728-D70C7F084435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0434E0DD-C6F8-4C80-8728-D70C7F084435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
