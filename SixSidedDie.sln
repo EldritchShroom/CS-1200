@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlasRPG", "AtlasRPG\AtlasR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.RPG", "Atlas.RPG\Atlas.RPG.csproj", "{7CE9523A-3D9E-485F-80EC-E86EED56935B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.RPG.UI", "Atlas.RPG.UI\Atlas.RPG.UI.csproj", "{57E40AE7-9A9E-4FDA-AF27-498D9233EA02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{7CE9523A-3D9E-485F-80EC-E86EED56935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE9523A-3D9E-485F-80EC-E86EED56935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE9523A-3D9E-485F-80EC-E86EED56935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E40AE7-9A9E-4FDA-AF27-498D9233EA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E40AE7-9A9E-4FDA-AF27-498D9233EA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E40AE7-9A9E-4FDA-AF27-498D9233EA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E40AE7-9A9E-4FDA-AF27-498D9233EA02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
