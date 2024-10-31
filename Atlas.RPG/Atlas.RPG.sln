@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.RPG.UI", "Atlas.RPG.UI\Atlas.RPG.UI.csproj", "{EE21CE35-2E94-42DE-81BD-14F6429AC85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.RPG.Items", "Atlas.RPG.Items\Atlas.RPG.Items.csproj", "{EE443C98-ACB0-4936-834F-3AD17C1807FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +14,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE21CE35-2E94-42DE-81BD-14F6429AC85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE21CE35-2E94-42DE-81BD-14F6429AC85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE21CE35-2E94-42DE-81BD-14F6429AC85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE21CE35-2E94-42DE-81BD-14F6429AC85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE443C98-ACB0-4936-834F-3AD17C1807FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE443C98-ACB0-4936-834F-3AD17C1807FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE443C98-ACB0-4936-834F-3AD17C1807FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE443C98-ACB0-4936-834F-3AD17C1807FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
