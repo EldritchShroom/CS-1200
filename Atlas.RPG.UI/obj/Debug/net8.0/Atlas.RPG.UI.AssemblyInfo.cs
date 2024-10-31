@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atlas.RPG.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67d2090a8a10e81937e83d9d5a51e70ea1e7c25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e51491257b204dc0e0d41de88bc476cd38ac91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atlas.RPG.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atlas.RPG.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
