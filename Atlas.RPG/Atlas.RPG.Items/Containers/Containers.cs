@@ -1,4 +1,4 @@
-namespace Atlas.RPG.Items;
+namespace Atlas.RPG.Items.Containers;
 
     public class InventoryBase
     {
@@ -36,5 +36,21 @@ namespace Atlas.RPG.Items;
                 }
             }
             return null;
+        }
+        
+        public virtual void ListContents()
+        {
+            Console.WriteLine("Contents");
+            Console.WriteLine();
+            Console.WriteLine("=================");
+
+            /*
+            for (int i = 0; i <= _capacity.Length; i++)
+            {
+                Console.WriteLine($"{_capacity[ItemBase]}\t\t {}")
+            }
+            */
+
+            
         }
     }
