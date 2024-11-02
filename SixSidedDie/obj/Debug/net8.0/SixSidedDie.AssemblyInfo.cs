@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SixSidedDie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc2f8603d416cd03a5889989c4678d015264fb13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa78deb745ee555ac03a4b7d9f7baf6c2f09949e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SixSidedDie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SixSidedDie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
