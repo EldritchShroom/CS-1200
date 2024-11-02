@@ -1,4 +1,4 @@
-namespace Atlas.RPG.Items;
+namespace Atlas.RPG.Items.Weapons;   
 
 public class WeaponBase : ItemBase
 {
