@@ -1,6 +1,6 @@
 namespace Atlas.RPG.Items;
 
-public class ItemBase
+abstract class ItemBase
 {
     public string Name { get; set; }
     public string Description { get; set; }

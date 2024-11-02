@@ -13,5 +13,6 @@ public class HealthPotion : ItemBase
         Name = "Health Potion";
         Weight = 1;
         Description = " Small potion that heals.";
+        Value = 10;
     }
 }
