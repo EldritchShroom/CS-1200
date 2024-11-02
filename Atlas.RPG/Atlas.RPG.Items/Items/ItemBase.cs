@@ -8,10 +8,3 @@ public class ItemBase
     public decimal Value { get; set; }
     public ItemType itemType;
 }
-
-public enum ItemType
-{
-    Weapon,
-    Armor,
-    Potion
-}
