@@ -2,7 +2,7 @@ namespace Atlas.RPG.Items.Weapons;
 
 public class WeaponBase : ItemBase
 {
-    public int Damage {get; set;}
+    public int Damage {get; set;} 
 }
 
 public class Sword : WeaponBase
@@ -11,7 +11,7 @@ public class Sword : WeaponBase
     {
         ItemType = ItemType.Weapon;
         Damage = 5;
-        Name = "Iron Sword"
+        Name = "Iron Sword";
         Description = " A standard iron sword.";
         Weight = 4;
         Value = 100;    
