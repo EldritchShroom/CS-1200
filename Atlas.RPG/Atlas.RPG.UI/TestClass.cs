@@ -31,5 +31,7 @@ public class Tests
         Console.WriteLine($"Can remove item: {removed != null}");
         Console.WriteLine($"Removed expected item: {removed == item2}");
         Console.WriteLine($"Removed slot is now null: {container.RemoveItem(1) == null}");
+
+        container.ListContents();
     }
 }
