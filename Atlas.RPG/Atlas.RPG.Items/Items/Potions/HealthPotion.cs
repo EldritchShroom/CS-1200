@@ -1,8 +1,8 @@
 namespace Atlas.RPG.Items.Potions;
 
-public class HealthPotion : ItemBase
+public class HealthPotion : PotionBase
 {
-    public override Drink()
+    public override void Drink()
     {
         Console.WriteLine("Glug, Glug, Glug! You feel better!");
     }

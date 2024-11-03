@@ -1,9 +1,6 @@
 namespace Atlas.RPG.Items.Potions;
 
-abstract class PotionBase : ItemBase
+public abstract class PotionBase : ItemBase
 {
-    abstract void Drink()
-    {
-        
-    }
+    public abstract void Drink();
 }

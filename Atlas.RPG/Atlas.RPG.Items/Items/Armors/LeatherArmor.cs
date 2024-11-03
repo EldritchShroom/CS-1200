@@ -1,6 +1,6 @@
 namespace Atlas.RPG.Items.Armors;
 
-public class LeatherArmor : Armorbase
+public class LeatherArmor : ArmorBase
 {
     public LeatherArmor()
     {
