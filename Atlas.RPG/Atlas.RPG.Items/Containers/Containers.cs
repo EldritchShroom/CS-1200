@@ -2,7 +2,7 @@ using System.Runtime.CompilerServices;
 
 namespace Atlas.RPG.Items.Containers;
 
-    public class InventoryBase
+    public abstract class InventoryBase
     {
         protected int _capacity;
         protected ItemBase[] _contents;
@@ -13,17 +13,17 @@ namespace Atlas.RPG.Items.Containers;
             _contents = new ItemBase[_capacity];
         }
 
-        public virtual bool AddItem(ItemBase item)
+        public virtual AddResult AddItem(ItemBase item)
         {
-            for (int i = 0; i < _capacity; i++)
-            {
+                /*
                 if (_contents[i] == null)
                 {
+                    
                     _contents[i] = item;
-                    return true;
-                }
+                    return AddResult.Success;
+                }*/
             }
-            return false;
+            return ;
         }
 
         public virtual ItemBase RemoveItem(int index)

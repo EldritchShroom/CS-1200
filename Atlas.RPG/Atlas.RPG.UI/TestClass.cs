@@ -8,7 +8,7 @@ public class Tests
     public static void RunBaseTests()
     {
         // create container with 2 slots
-        var container = new InventoryBase(2);
+        var container = new Chest(2);
 
         var item1 = new ItemBase {
             Name = "Item 1"
