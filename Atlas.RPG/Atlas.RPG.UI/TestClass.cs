@@ -1,4 +1,5 @@
 using Atlas.RPG.Items;
+using Atlas.RPG.Items.Containers;
 
 namespace Atlas.RPG.UI;
 
