@@ -7,7 +7,8 @@ public class WeightRestrictedInventory : InventoryBase
     protected double _maxWeight { get; set; }
 
 
-    public WeightRestrictedInventory(int capacity, double maxWeight) : base(capacity)
+    public WeightRestrictedInventory(int capacity, double maxWeight) 
+        : base(capacity)
     {
         _maxWeight = maxWeight;
     }

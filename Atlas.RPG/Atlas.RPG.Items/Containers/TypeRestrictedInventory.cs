@@ -4,7 +4,8 @@ public class TypeRestrictedInventory : InventoryBase
 {
 
     protected ItemType _requiredType { get; set; }
-    public TypeRestrictedInventory(int _capacity, ItemType requiredType) : base(_capacity)
+    public TypeRestrictedInventory(int _capacity, ItemType requiredType) 
+        : base(_capacity)
     {
         ItemType _requiredType = requiredType;
     }
