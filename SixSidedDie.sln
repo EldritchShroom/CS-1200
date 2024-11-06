@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.RPG.UI", "Atlas.RPG.U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccounts", "BankAccounts\BankAccounts.csproj", "{5A883521-7714-4F7E-A996-BAB247CDFDBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame", "BoardGame\BoardGame.csproj", "{27028E30-83EB-458F-AFF4-DCEDD9D32035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{5A883521-7714-4F7E-A996-BAB247CDFDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A883521-7714-4F7E-A996-BAB247CDFDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A883521-7714-4F7E-A996-BAB247CDFDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27028E30-83EB-458F-AFF4-DCEDD9D32035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27028E30-83EB-458F-AFF4-DCEDD9D32035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27028E30-83EB-458F-AFF4-DCEDD9D32035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27028E30-83EB-458F-AFF4-DCEDD9D32035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
