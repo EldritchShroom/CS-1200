@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.tests", "xunit.tests\xunit.tests.csproj", "{2A077912-F736-4229-98AF-AD181A3E969C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.samples", "xunit.samples\xunit.samples.csproj", "{C08CFB59-B973-427F-AA2A-8C75478920F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A077912-F736-4229-98AF-AD181A3E969C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A077912-F736-4229-98AF-AD181A3E969C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A077912-F736-4229-98AF-AD181A3E969C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A077912-F736-4229-98AF-AD181A3E969C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08CFB59-B973-427F-AA2A-8C75478920F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08CFB59-B973-427F-AA2A-8C75478920F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08CFB59-B973-427F-AA2A-8C75478920F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08CFB59-B973-427F-AA2A-8C75478920F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
