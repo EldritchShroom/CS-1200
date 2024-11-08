@@ -33,6 +33,10 @@ public class Tests
         Console.WriteLine($"Removed expected item: {removed == item2}");
         Console.WriteLine($"Removed slot is now null: {container.RemoveItem(1) == null}");
 
+        Console.WriteLine("Create cloth bag");
+        ClothBag Balenciaga = new ClothBag();
+        Console.WriteLine($"Cloth bag is now called {Balenciaga}");
+
         container.ListContents();
     }
 }

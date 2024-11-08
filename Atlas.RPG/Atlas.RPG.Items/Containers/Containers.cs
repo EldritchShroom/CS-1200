@@ -15,16 +15,14 @@ namespace Atlas.RPG.Items.Containers;
 
         public virtual AddResult AddItem(ItemBase item)
         {
-                /*
                 if (_contents[i] == null)
                 {
                     
                     _contents[i] = item;
                     return AddResult.Success;
-                }*/
-            }
-            return ;
+                }
         }
+        
 
         public virtual ItemBase RemoveItem(int index)
         {

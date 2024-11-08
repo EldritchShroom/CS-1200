@@ -24,10 +24,7 @@ public class WeightRestrictedInventory : InventoryBase
                 _contents[i] = item;
                 return AddResult.Success;
             }
-            else
-            {
-                return AddResult.ContainerFull;
-            }  
+            return AddResult.Overweight;
         }
         
     }
