@@ -1,6 +1,6 @@
 namespace Atlas.RPG.Items.Containers;
 
-public class TypeRestrictedInventory : InventoryBase
+public abstract class TypeRestrictedInventory : InventoryBase
 {
 
     protected ItemType _requiredType { get; set; }
@@ -19,8 +19,12 @@ public class TypeRestrictedInventory : InventoryBase
                     _contents[i] = item;
                     return AddResult.Success;
             }  
+            else
+            {
+                return AddResult.WrongType;
+            }
         }
-        return AddResult.WrongType;
+        
     }
 
 

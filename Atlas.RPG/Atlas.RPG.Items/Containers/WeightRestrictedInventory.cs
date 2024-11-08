@@ -20,12 +20,16 @@ public class WeightRestrictedInventory : InventoryBase
         {
             if (_contents[i] == null && _currentWeight + item.Weight < _maxWeight)
             {
-                    _currentWeight += item.Weight;
-                    _contents[i] = item;
-                    return AddResult.Success;
+                _currentWeight += item.Weight;
+                _contents[i] = item;
+                return AddResult.Success;
+            }
+            else
+            {
+                return AddResult.ContainerFull;
             }  
         }
-        return AddResult.ContainerFull;
+        
     }
 
     public override ItemBase RemoveItem(int index)
