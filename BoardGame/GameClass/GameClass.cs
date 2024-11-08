@@ -8,32 +8,26 @@ public class GameBoard
 
     public int MaxPlayers { get; set; }
 
-    public int PlayTime { get; set; }
-
-    public int PlayerRange { get; set; }
+    private int PlayTime;
 
 
-    public GameBoard(string name, int minPlayers, int maxPlayers, int playTime, int playerRange)
+    public GameBoard(string name, int minPlayers, int maxPlayers)
     {
         Name = name;
 
         MinPlayers = minPlayers;
 
         MaxPlayers = maxPlayers;
-
-        PlayTime = playTime;
-
-        PlayerRange = playerRange;
     }
 
-    public void Play()
+
+    public virtual void Play()
     {
         Console.WriteLine("Playing the board game.");
     }
 
-    public void DisplayInfo()
+    public virtual void DisplayInfo()
     {
         Console.WriteLine($"Currently playing {Name}");
-        Console.WriteLine($"Player Range is {PlayerRange}");
     }
 }

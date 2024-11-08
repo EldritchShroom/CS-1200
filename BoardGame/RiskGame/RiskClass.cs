@@ -4,13 +4,19 @@ public class Risk : GameBoard
 {
    Random DiceRoll = new Random();
 
-   private int Troops = 10;
+   private int Troops { get; set; }
 
-   override Play()
+   
+   public override void Play()
    {
-        
+      Console.WriteLine("Welcome to Risk, Do you have what it takes to conquer your foes?");
    }
 
-    
+   public override void DisplayInfo()
+   {
+      Console.WriteLine();
+   }
+
+
 
 }
