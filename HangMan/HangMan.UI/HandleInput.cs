@@ -2,32 +2,28 @@ using System;
 
 namespace HangMan.UI;
 
-public class HangMan
+public class UserInput
 {
-    public void GameLoop()
+    public string _askName()
     {
-        Boolean isTrue = true;
+        Console.Write("Enter your name: ");
+        string Name = Console.ReadLine();
 
-        while (isTrue)
-        {
-            Console.WriteLine("Welcome to Hangman!");
-            Console.WriteLine();
+        return Name;
+    }
 
-            /*
-            This part was put into "AskForName.cs"
-            Console.Write("Enter your name: ");
-            Console.WriteLine();
-            */
+    public int GuessChoice()
+    {
+        
+        Console.WriteLine("How would you like to choose your words?");
+        Console.WriteLine();
+        Console.WriteLine("1. Enter the word in the console window.");
+        Console.WriteLine("2. Pick a random word from the dictionary for me.");
 
-            /* 
-            This part was put into "GuessHandling.cs"
-            Console.WriteLine("How would you like to choose your words?");
+        Console.Write("Enter choice: ");
 
-            Console.Write("1. Enter the word in the console window.");
-            Console.Write("2. Pick a random word from the dictionary for me.");
+        int input = int.Parse(Console.ReadLine());
 
-            int input = int.Parse(Console.ReadLine());
-            */
-        }
+        return input;
     }
 }

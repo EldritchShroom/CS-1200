@@ -25,7 +25,7 @@ public class RandomWord : IWordSource
             Console.ReadKey(intercept: true);    
         }
         
-        return _word;
+        return _word; 
 
     }
 } 
