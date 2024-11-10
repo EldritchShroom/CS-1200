@@ -1,6 +1,6 @@
 using System;
 
-namespace HangMan.HangMan.UI;
+namespace HangMan.UI;
 
 public class HangMan
 {

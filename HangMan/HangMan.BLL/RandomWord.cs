@@ -17,6 +17,14 @@ public class RandomWord : IWordSource
 
         string _word = dictionaryWords[rnd.Next(dictionaryWords.Length)];
         // This should use rnd to chose a random index which chooses a random word which is then stored to the string _word 
+        Console.WriteLine($"A random word has been selected from the dictionary it is {_word.Length} letters long.");
+        Console.WriteLine("Press any key to continue...");
+
+        if (Console.KeyAvailable)
+        {
+            Console.ReadKey(intercept: true);    
+        }
+        
         return _word;
 
     }
