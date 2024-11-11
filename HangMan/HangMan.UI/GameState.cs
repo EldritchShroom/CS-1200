@@ -1,3 +1,5 @@
+using HangMan.BLL;
+
 namespace HangMan.UI
 {
     public class Program
