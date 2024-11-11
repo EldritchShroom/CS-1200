@@ -1,0 +1,5 @@
+C:\Users\patri\OneDrive\CS-1200\HangMan\HangMan.BLL\obj\Debug\net8.0\HangMan.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\CS-1200\HangMan\HangMan.BLL\obj\Debug\net8.0\HangMan.BLL.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\CS-1200\HangMan\HangMan.BLL\obj\Debug\net8.0\HangMan.BLL.AssemblyInfo.cs
+C:\Users\patri\OneDrive\CS-1200\HangMan\HangMan.BLL\obj\Debug\net8.0\HangMan.BLL.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\CS-1200\HangMan\HangMan.BLL\obj\Debug\net8.0\HangMan.BLL.sourcelink.json
